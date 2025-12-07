@@ -1,0 +1,14 @@
+b3 refers to demapper
+b4 refers to mapper
+b5 refers to EP block
+
+pinq_test - HIL configuration
+all4_flex_pipe - final implementation of BPSK, QPSK, 8-PSK and 16-QAM with pipeline
+all_pipe - implementation of QPSK, 8-PSK and 16-QAM with pipeline
+
+qpsk_pipe - QPSK with pipeline
+b8psk_pipe - 8-PSK with pipeline
+b16qam_pipe - 16-QAM with pipeline
+project_block345 - QPSK without pipeline
+project_b345_8psk - 8-PSK without pipeline
+b345_16qam - 16-QAM without pipeline
